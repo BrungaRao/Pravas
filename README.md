@@ -31,15 +31,15 @@ The application provides an easy-to-use interface for passengers to search, book
 * JavaScript
 
 ## Installation
-### Clone the Repository
-### Set Up the Web Server
-### Configure Database
-### Run
+* Clone the Repository
+* Set Up the Web Server
+* Configure Database
+* Run
 
 ## Author
 **Brunga S Rao**
-Mobile: +91 9483083934
-Email: brungarao2004@gmail.com
-LinkedIn: https://www.linkedin.com/in/brunga-s-rao-8713b7284
+* Mobile: +91 9483083934
+* Email: brungarao2004@gmail.com
+* LinkedIn: https://www.linkedin.com/in/brunga-s-rao-8713b7284
 
 💼 LinkedIn: https://www.linkedin.com/in/brunga-s-rao-8713b7284
